@@ -17,7 +17,7 @@
 </td>
 
 <td align="center">
-  <img src="https://i.gifer.com/A89.gif" alt="Coding & Reading" height="300" width="250" />
+  <img src="https://i.gifer.com/A89.gif" alt="Coding & Reading" height="240" width="250" />
 </td>
   </tr>
 </table>
