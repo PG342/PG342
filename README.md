@@ -17,7 +17,7 @@
 </td>
 
 <td align="center">
-  ![Banner GIF](https://i.gifer.com/A89.gif)
+  <img src="https://i.gifer.com/A89.gif" alt="Coding & Reading" width="250" />
 </td>
   </tr>
 </table>
