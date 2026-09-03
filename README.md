@@ -27,14 +27,14 @@ Connect with me:
 
 <p align="left">
   <a href="www.linkedin.com/in/prakhar-gupta-5849ab196/" target="blank">
-    <img align="center" src="https://share.google/lYXv9gTBjNp1gADh6" alt="prakhar-gupta-5849ab196" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="prakhar-gupta-5849ab196" height="30" width="40" />
   </a>&nbsp;&nbsp;
 
   <a href="www.leetcode.com/u/prakhargupta33/" target="blank">
-    <img align="center" src="https://share.google/p3P4yTK1uDgenl0s0" alt="prakhargupta33" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" height="30" width="40" />
   </a>&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/profile/CS3C_1816410180" target="blank">
-    <img align="center" src="https://share.google/4RMzxJgqF09tbE1pu" alt="CS3C_1816410180" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="CS3C_1816410180" height="30" width="40" />
   </a>&nbsp;&nbsp;
 </p>
